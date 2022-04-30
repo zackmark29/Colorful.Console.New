@@ -3,7 +3,14 @@
 
 **Colorful.Console** is a C# library that wraps around the `System.Console` class, exposing enhanced styling functionality.
 
-![Colorful.Console icon](https://github.com/tomakita/Colorful.Console/blob/master/static/colorful_icon_ngsize.png)
+## ABOUT THIS UPDATE
+
+- Only Implemented the codes from <https://github.com/AlexeiScherbakov/Colorful.Console/commit/0c000e1254f6fce76e7d492cc6a35a5c9ca4a53f>
+which fixed and support the Virtual Terminal 256 Color functionality (Thanks to him)
+- You can now build with VS2022
+- Ps. I can't be able to build from his repo because of incompatibility of Visual Studio
+
+---
 
 # How to Get It
 
